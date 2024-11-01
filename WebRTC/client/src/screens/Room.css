@@ -1,0 +1,21 @@
+h1 {
+    font-size: 65px;
+}
+ReactPlayer{
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    height: 400px;
+}
+.Stream {
+    justify-content: center;
+    align-items: center;
+    border: 1px solid grey;
+    border-radius: 14px;
+    position: relative;
+    padding: 20px;
+    height: 40%;
+    width: 30%;
+    margin-left: 33%;
+    margin-top: 2%;
+}

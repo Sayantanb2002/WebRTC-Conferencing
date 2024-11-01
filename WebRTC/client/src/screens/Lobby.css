@@ -1,0 +1,44 @@
+.Lobby-Screen{
+    border: 1px solid grey;
+    border-radius: 14px;
+    padding: 20px;
+    padding-bottom: 48px;
+    position: relative;
+    height: 100%;
+    width: 50%;
+   margin-left: 24%;
+   margin-top: 5%;
+}
+
+h1 {
+    font-size: 45px;
+}
+label {
+    font-size: 25px;
+    padding-left: 37px;
+    padding-right: 16px;
+    margin-bottom: 15px;
+}
+
+input {
+    padding: 12px;
+    margin-top: 15px;
+    margin-bottom: 15px;
+    border-radius: 5px;
+    border: 1px solid #ccc;
+    width: 200px;
+    font-size: 15px;
+}
+
+button {
+    padding: 12px 20px;
+    background-color: #345cb4;
+    margin-right: 5px;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    margin-top: 15px;
+    width: 177px;
+    font-size: 22px;
+}
